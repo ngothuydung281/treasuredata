@@ -3,6 +3,7 @@
 - Maven https://maven.apache.org/download.cgi
 - Set JAVA_HOME Environment variable and add %JAVA_HOME%\bin to Path environment variable
 - Set MAVEN_HOME Environment variable and add %MAVEN_HOME%\bin to Path environment variable
+https://confluence.atlassian.com/doc/setting-the-java_home-variable-in-windows-8895.html
 
 # Usage
 - Open cmd, cd to local porject folder
