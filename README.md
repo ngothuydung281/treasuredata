@@ -2,7 +2,7 @@
 - Java version 1.8 or higher: https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
 - Maven https://maven.apache.org/download.cgi
 - Set JAVA_HOME Environment variable and add %JAVA_HOME%\bin to Path environment variable
-- Set MAVEN_HOME Environment variable and add %JAVA_HOME%\bin to Path environment variable
+- Set MAVEN_HOME Environment variable and add %MAVEN_HOME%\bin to Path environment variable
 
 #Usage
 - Open cmd, cd to local porject folder
