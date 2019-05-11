@@ -1,0 +1,29 @@
+
+V
+squid:S106p"9Replace this use of System.out or System.err by a logger.(Ù€ãğ8œñ¡é©-
+rsquid:S00100Z"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÅÙŸ¹ûÿÿÿÿ8œñ¡é©-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(«í£Æ8–ñœé©-
+¯%squid:RedundantThrowsDeclarationCheck"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(“İè«8›ß…ê©-
+Zsquid:S2589M"7Remove this expression which always evaluates to "true"(Ÿ¾ØÄıÿÿÿÿ8œñ¡é©-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(ßÉ¿è8†Óè©-
+V
+squid:S106b"9Replace this use of System.out or System.err by a logger.(±ĞÏ®8œñ¡é©-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(¡Ò«8«³¨é©-
+Usquid:S36552"7Call "Optional#isPresent()" before accessing the value.(ß¹Ñ8œñ¡é©-
+msquid:S00100h"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚ÄÇ…8œñ¡é©-
+[squid:S00107"<Method has 8 parameters, which is greater than 7 authorized.(“İè«8æ°®ş¨-
+msquid:S00100="NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«ü©ò8œñ¡é©-
+V
+squid:S106%"9Replace this use of System.out or System.err by a logger.(ÛÅ—©8œñ¡é©-
+\
+squid:S106€"9Replace this use of System.out or System.err by a logger.(Ë‰Ô’ıÿÿÿÿ8œñ¡é©-
+[
+squid:S106_"9Replace this use of System.out or System.err by a logger.(®ıáëûÿÿÿÿ8•È£é©-
+[
+squid:S106m"9Replace this use of System.out or System.err by a logger.(®ıáëûÿÿÿÿ8Ü›¤é©-
+Xsquid:S40347":Replace this negation and "anyMatch()" with "noneMatch()".(ò˜Ëí8œñ¡é©-
+V
+squid:S106V"9Replace this use of System.out or System.err by a logger.(àİ8œñ¡é©-

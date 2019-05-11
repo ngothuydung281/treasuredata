@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.treasuredata.client:td-client:shade:0.8.9">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/treasuredata/client/td-client/0.8.9/td-client-0.8.9-shade.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/treasuredata/client/td-client/0.8.9/td-client-0.8.9-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/treasuredata/client/td-client/0.8.9/td-client-0.8.9-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

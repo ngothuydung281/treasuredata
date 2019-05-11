@@ -1,0 +1,12 @@
+
+Jsquid:S1444",Make this "public static Presto" field final(Ã³ºÛ8Æ¦™ş¨-
+msquid:S3008"ORename this field "Hive" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡¶ç¤8Æ¦™ş¨-
+Gsquid:S1444")Make this "public static csv" field final(¥¡¡é8äĞ ş¨-
+]squid:S1118":Add a private constructor to hide the implicit public one.(ûæııÿÿÿÿ8…Œúş¨-
+„"squid:ClassVariableVisibilityCheck"OMake csv a static final constant or non-public and provide accessors if needed.(¥¡¡é8äĞ ş¨-
+osquid:S3008"QRename this field "Presto" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ã³ºÛ8Æ¦™ş¨-
+…"squid:ClassVariableVisibilityCheck"PMake Hive a static final constant or non-public and provide accessors if needed.(‡¶ç¤8ªÜ—ş¨-
+‡"squid:ClassVariableVisibilityCheck"RMake Presto a static final constant or non-public and provide accessors if needed.(Ã³ºÛ8ªÜ—ş¨-
+Hsquid:S1444"*Make this "public static Hive" field final(‡¶ç¤8Æ¦™ş¨-
+Ksquid:S1444"-Make this "public static tabular" field final(Í¥§8˜ü¡ş¨-
+ˆ"squid:ClassVariableVisibilityCheck"SMake tabular a static final constant or non-public and provide accessors if needed.(Í¥§8˜ü¡ş¨-
