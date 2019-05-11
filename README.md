@@ -4,7 +4,7 @@
 - Set JAVA_HOME Environment variable and add %JAVA_HOME%\bin to Path environment variable
 - Set MAVEN_HOME Environment variable and add %MAVEN_HOME%\bin to Path environment variable
 
-#Usage
+# Usage
 - Open cmd, cd to local porject folder
 - mvn clean install
 - mvn compile
