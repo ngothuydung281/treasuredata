@@ -1,16 +1,16 @@
 
-Rsquid:S1444	"/Make this "public static errorList" field final(ùËäáøÿÿÿÿ8ŞŒ¸³©-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(æóîòúÿÿÿÿ8Üºƒ’ª-
+@squid:S2386	"Make this member "protected".(ùËäáøÿÿÿÿ8ŞŒ¸³©-
+[
+squid:S106."9Replace this use of System.out or System.err by a logger.(˜Ìõºÿÿÿÿÿ8«×óÙ©-
 Jsquid:S1444
 ",Make this "public static client" field final(¿úÈ–8ŞŒ¸³©-
 [
-squid:S106."9Replace this use of System.out or System.err by a logger.(˜Ìõºÿÿÿÿÿ8«×óÙ©-
-[
-squid:S106"9Replace this use of System.out or System.err by a logger.(æóîòúÿÿÿÿ8Üºƒ’ª-
-V
-squid:S106"9Replace this use of System.out or System.err by a logger.(õÏåá8ŠâÊ¾©-
-[
 squid:S106'"9Replace this use of System.out or System.err by a logger.(Øç‘şÿÿÿÿ8¨Œ‹À©-
-@squid:S2386	"Make this member "protected".(ùËäáøÿÿÿÿ8ŞŒ¸³©-
-"squid:ClassVariableVisibilityCheck	"UMake errorList a static final constant or non-public and provide accessors if needed.(ùËäáøÿÿÿÿ8ŞŒ¸³©-
 ‡"squid:ClassVariableVisibilityCheck
 "RMake client a static final constant or non-public and provide accessors if needed.(¿úÈ–8ŞŒ¸³©-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(õÏåá8ŠâÊ¾©-
+Rsquid:S1444	"/Make this "public static errorList" field final(ùËäáøÿÿÿÿ8ŞŒ¸³©-
+"squid:ClassVariableVisibilityCheck	"UMake errorList a static final constant or non-public and provide accessors if needed.(ùËäáøÿÿÿÿ8ŞŒ¸³©-
